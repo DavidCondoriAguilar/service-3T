@@ -1,0 +1,9 @@
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\bin\Debug\pe.com.registro.dal.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\bin\Debug\pe.com.registro.dal.pdb
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\bin\Debug\pe.com.registro.bo.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\bin\Debug\pe.com.registro.bo.pdb
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\obj\Debug\pe.com.registro.dal.csproj.AssemblyReference.cache
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\obj\Debug\pe.com.registro.dal.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\obj\Debug\pe.com.registro.dal.csproj.CopyComplete
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\obj\Debug\pe.com.registro.dal.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.dal\obj\Debug\pe.com.registro.dal.pdb

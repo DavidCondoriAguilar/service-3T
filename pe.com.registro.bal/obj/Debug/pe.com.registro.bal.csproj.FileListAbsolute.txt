@@ -1,0 +1,11 @@
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\obj\Debug\pe.com.registro.bal.csproj.AssemblyReference.cache
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\obj\Debug\pe.com.registro.bal.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\bin\Debug\pe.com.registro.bal.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\bin\Debug\pe.com.registro.bal.pdb
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\bin\Debug\pe.com.registro.bo.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\bin\Debug\pe.com.registro.dal.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\bin\Debug\pe.com.registro.bo.pdb
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\bin\Debug\pe.com.registro.dal.pdb
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\obj\Debug\pe.com.registro.bal.csproj.CopyComplete
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\obj\Debug\pe.com.registro.bal.dll
+C:\Users\DAVIDWILD\Desktop\DAVID CONDORI AGUILAR\servicio\ServicioRegistro\pe.com.registro.bal\obj\Debug\pe.com.registro.bal.pdb
